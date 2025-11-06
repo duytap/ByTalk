@@ -11,4 +11,4 @@ By Talk represents the idea of bypassing surveillance and bringing communication
 
 How to use:
   host:   python bytalk.py host \[port\]
-  client: python bytalk.py connect <ip> \[port\]
+\n  client: python bytalk.py connect <ip> \[port\]
